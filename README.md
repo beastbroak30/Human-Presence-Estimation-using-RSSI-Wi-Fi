@@ -18,8 +18,8 @@ It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 22
 
 | File/Folder                  | Description |
 |-----------------------------|-------------|
-| `test_report.py`            | Predicts presence zone using **both heatmap and webcam** |
-| `test_heatmap_model.py`     | Predicts using **heatmap only** (no webcam required) |
+| `test_report.py`            | Predicts presence zone using **Folder containing multiple heatmaps** |
+| `test_heatmap_model.py`     | Predicts using **single heatmap only**  |
 | `model_g.pkl`               | Final trained model (10×10 heatmap + 64×64 webcam input) |
 | `classification_report.txt` | Consists of the all the report from intial phase|
 | `model_g_scaler.pkl`        | Optional feature scaler used during training (if applied) |
