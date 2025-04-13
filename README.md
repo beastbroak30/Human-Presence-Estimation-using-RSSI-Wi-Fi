@@ -21,8 +21,10 @@ It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 22
 | `test_report.py`            | Predicts presence zone using **both heatmap and webcam** |
 | `test_heatmap_model.py`     | Predicts using **heatmap only** (no webcam required) |
 | `model_g.pkl`               | Final trained model (10×10 heatmap + 64×64 webcam input) |
+| `classification_report.txt` | Consists of the all the report from intial phase|
 | `model_g_scaler.pkl`        | Optional feature scaler used during training (if applied) |
 | `Kalman_image_trained/`     | Heatmap images (10×10) used for training |
+| `rssi_log.txt`              | Contains all the log values from raw to filtered RSSI values used in sessions|
 | `images/`                   | Contains diagrams and figures used in paper |
 
 ---
