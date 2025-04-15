@@ -11,8 +11,11 @@ The system uses:
 - A Random Forest classifier trained on both RSSI (heatmap) and camera features.
 
 It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 2232 training samples.
-
 ---
+<p align = "left">
+<img src="images/IMG_20250406_182836_300 (1).jpg" alt="Material RSSI" width="400">
+</p>
+
 ## ⚡Materials Required:
 - ESP32/ESP8266
 > I used 2 ESP32 and 2 ESP8266 but recommended to use ESP32
