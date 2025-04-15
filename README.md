@@ -13,7 +13,15 @@ The system uses:
 It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 2232 training samples.
 
 ---
+## ⚡Materials Required:
+- ESP32/ESP8266
+> I used 2 ESP32 and 2 ESP8266 but recommended to use ESP32
+- A Modem/Router (2.4 GHz)
+- Powering system (battery)
+- Camera (Use phone as IP cam)(If you are training)
+> The codes of all the Embedded codes will be given in the MAY 2025
 
+---
 ## 🗃️ Repository Structure
 
 | File/Folder                  | Description |
