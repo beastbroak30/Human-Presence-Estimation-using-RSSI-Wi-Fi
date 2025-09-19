@@ -10,7 +10,7 @@ The system uses:
 - Kalman filters for signal smoothing.
 - A Random Forest classifier trained on both RSSI (heatmap) and camera features.
 
-It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 2232 training samples.
+It achieves **~94% classification accuracy** using a 10×10 heatmap grid with 8232 training samples.
 ---
 <p align = "left">
 <img src="images/IMG_20250406_182836_300 (1).jpg" alt="Material RSSI" width="400">
