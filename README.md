@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/964061707.svg)](https://doi.org/10.5281/zenodo.17536211)
 # 📡 RF-Based Human Presence Detection using Wi-Fi RSSI and Machine Learning
 
 This repository contains all the essential code, models, datasets, and results for a Wi-Fi RSSI-based human presence detection project. It combines 2.4 GHz RSSI data from ESP modules and visual supervision using camera frames to classify the presence zone of a person in an indoor environment.
