@@ -102,7 +102,7 @@ See `images/` folder for reference.
 
 If you use this work, please cite or acknowledge:
 
-> "Human-Presence-Estimation-using-RSSI-Wi-Fi", Antarip Kar, 2024.
+> "Human-Presence-Estimation-using-RSSI-Wi-Fi", Antarip Kar, 2025.
 
 ---
 
